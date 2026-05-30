@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Comfortaa:wght@300..700&family=LXGW+WenKai+Mono+TC&family=Roboto:ital,wght@0,100..900;1,100..900&family=Rubik+Mono+One&family=Titan+One&display=swap');
+h1,h2,h3,h4,h5{
+font-family:'Open Sans', sans-serif;
+font-weight: 600;
+}
+p{
+font-family:'Roboto', sans-serif;
+font-weight: 600;
+}
+a{
+font-family: 'Open Sans', sans-serif;
+font-weight:600;
+letter-spacing: 2px;
+}
